@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.top {
+  background: linear-gradient(135deg, rgba(59,103,158,1) 0%,rgba(43,136,217,1) 50%,rgba(32,124,202,1) 77%,rgba(125,185,232,1) 100%);
+  font-size: 24px;
+  text-align: center;
+  color:rgb(255, 179, 179);
+  font-family: 'Times New Roman', Times, serif;
+}
